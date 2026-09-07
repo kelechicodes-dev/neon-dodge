@@ -2,7 +2,7 @@
 
 A fast-paced, cyberpunk-styled arcade survival game built with vanilla JavaScript and the HTML5 Canvas API — no frameworks, no dependencies, no build step.
 
-**[Play it live →](#)** *(update this link once deployed)*
+**[Play it live →](https://kelechicodes-dev.github.io/neon-dodge/)** *(update this link once deployed)*
 
 ![difficulty](https://img.shields.io/badge/difficulty-easy%20%7C%20normal%20%7C%20hard-29f0ff)
 ![tech](https://img.shields.io/badge/built%20with-JS%20%2B%20Canvas-8b5cf6)
